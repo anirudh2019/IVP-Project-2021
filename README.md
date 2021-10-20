@@ -1,5 +1,6 @@
 # Seizure Detection Tutorials
-
+___
+Group-20 IVP
 
 Currently four open-source datasets are used: 
 
@@ -12,18 +13,6 @@ Currently four open-source datasets are used:
 4. NEDC TUH EEG Seizure corpus<sup>26</sup>
 
 Other databases exist but have their limitations:
-
-- The European Epilepsy Database (epilepsy-database.eu)
-    - Big, Well documented
-    - €3000/6000 3 year licence
-
-- IEEG (https://www.ieeg.org/)
-    - Open-source
-    - Hard to navigate
-    
-- LONDI (https://ida.loni.usc.edu)
-    - Has updated projects
-    - Permission for access
     
 **Topics covered**
 
