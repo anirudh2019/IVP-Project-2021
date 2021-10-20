@@ -39,14 +39,6 @@ Other databases exist but have their limitations:
 - Convolutional Neural Networks
 - Recurrent Neural Networks
 
-I'd like to give a massive thank you to the open source community for all the hard work that is put into the Python language, interactive computing resourses, and packages used to make this project a reality. Also thank you to Hvass Laboratories (http://www.hvass-labs.org/) whos Tutorials on TensorFlow were the inspiration for creating my own tutorials.
-
-**Progress Update**
-- 18/06/2021: My PhD is now publicly available: [Thesis](https://doi.org/10.17635/lancaster/thesis/1347), [Supplementary Information](https://eprints.lancs.ac.uk/id/eprint/155369/1/Supplementary_Information.pdf). If you found these tutorials useful you may also get something out of the methods review and research papers in there. Additionally, you may enjoy some of the lecture materials I've created for a masters course ["Machine Learning in Python"](https://eldave93.github.io/Machine-Learning-in-Python-20-21/) at Edinburgh University. More data science and machine learning materials are being developed for this course and other courses I'll be running next year. Maybe in the future I'll have chance to come back and work on these some more, but currently this side project is on hold.
-
-## Getting Started
-
-Due to the size of these notebooks you may need to use [nbviewer](https://nbviewer.jupyter.org/) to view the notebooks. To do this all you need to do is copy the url for the notebook (e.g. https://github.com/Eldave93/Seizure-Detection-Tutorials/blob/master/01.%20Overview%20of%20Datasets.ipynb) into the URL bar on the [nbviewer](https://nbviewer.jupyter.org/) website.
 
 ### Prerequisites
 
